@@ -40,3 +40,8 @@ var numberFive = 0.1;
 var numberSix = 0.2;
 var total = numberFive + numberSix;
 console.log(total.toFixed(3));
+
+var date = new Date();
+console.log(date);
+var date = new Date("1971-12-16");
+console.log(date);
